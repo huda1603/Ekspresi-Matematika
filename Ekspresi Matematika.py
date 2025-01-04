@@ -76,6 +76,12 @@ def memproses_ekspresi():
         try:
             angka = input("Masukkan Angka: ")
             angka = float(angka)
+        except:
+            print("Error: Inputan Tidak Valid, Mohon Masukkan Angka, Bukan Huruf Atau Karakter")
+        else:
+            break
+    while True:
+        try:
             ekspresilist = input("Buat Beberapa Ekspresi Aritmatika: ")
             for i in ekspresilist:
                 if i in hurufkarakter:
