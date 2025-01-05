@@ -14,6 +14,6 @@ Membandingkan Angka Dengan Operasi Aritmatika Seperti Kali(*), Bagi(/), Tambah(+
 **Output**
 ```bash
 Indeks 1 Dan Indeks 2
-['21-2+2*3*-7-6/3', '9*-9+58-3']
+['20-2+2*3*-7-6/3', '9*-9+58-3']
 ```
 Karena Operasi Aritmatika Pada Indeks 1 Dan Indeks 2 Memenuhi Persamaan Angka -26
