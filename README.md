@@ -8,7 +8,7 @@ Membandingkan Angka Dengan Operasi Aritmatika Seperti Kali(*), Bagi(/), Tambah(+
 ```
 **Ekspresi**
 ```bash
-(-8+7*90-23/45) (21+-2--2*3*-7-6/3) (9*-9+58-3) (7-2)
+(-8+7*90-23/45) (20+-2--2*3*-7-6/3) (9*-9+58-3) (7-2)
 ```
 
 **Output**
